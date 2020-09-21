@@ -1,0 +1,17 @@
+body {
+    background-color: #6F73D2;
+    margin: 0;
+}
+h1 {
+    color: #e63946;
+}
+p {
+    color: #EEC643;
+}
+a {
+    color: #04080F;
+    border-left: 6px solid #04080F;
+}
+img {
+    border: 3px solid #000000;
+}
