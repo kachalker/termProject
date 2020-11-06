@@ -1,1 +1,15 @@
-/*CSS styles for term project by Kaitlyn Chalker*/
+h1 {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color: #2b2d42;
+    font-family: 'Courgette', cursive;
+    color: #ef233c;
+}
+p {
+    font-size: 188%
+}
+.container-fluid {
+    background-color: #ef233c;
+    color: #2b2d42;
+    font-family: 'Cabin', sans-serif;
+}
